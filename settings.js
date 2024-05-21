@@ -16,8 +16,8 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94740952096,94743765687",
-  SUDO_NUMBERS : "94743765687,94740952096",
+  OWNER_NUMBER: "94740952096,94741029571",
+  SUDO_NUMBERS : "94741029571,94740952096",
   OWNER_NAME: "『 ~~ᴍʀͥ.ᴄͣʜͫᴀmuwa 』",
   BOT_NAME : "~~ᴍʀͥ.ᴄͣʜͫᴀmuwa",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -35,8 +35,8 @@ module.exports = {
   WORK_TYPE : "private",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ~~ᴍʀͥ.ᴄͣʜͫᴀmuwa ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ~~ᴍʀͥ.ᴄͣʜͫᴀmuwa ]',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ QUEEN SEW ᴍᴅ ʙᴏᴛ',
+  STICKER_PACK : '[ ~~ᴍʀͥ.ᴄͣʜͫᴀmuwa ] Queen Sew',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
